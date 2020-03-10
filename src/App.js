@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
         <h1>Coronavirus updates:</h1>
+        All good
+        Nobody dying anymore        
     </div>
   );
 }
